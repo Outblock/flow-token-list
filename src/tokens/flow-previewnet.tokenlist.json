@@ -71,14 +71,14 @@
     },
     {
       "address": "0x49e7a5a4edefe42e",
-      "contractName": "Example Fungible Token",
+      "contractName": "ExampleToken",
       "path": {
         "vault": "/storage/exampleTokenVault",
         "balance": "/public/exampleTokenVault",
         "receiver": "/public/exampleTokenReceiver"
       },
       "symbol": "EFT",
-      "name": "Bridged Example token",
+      "name": "Example Fungible Token",
       "decimals": 8,
       "logoURI": "https://i.ebayimg.com/images/g/5dwAAOSwbfFjzGQ6/s-l400.jpg",
       "tags": [
