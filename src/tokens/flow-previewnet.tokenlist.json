@@ -1,10 +1,7 @@
 {
   "name": "Flow Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
-  "keywords": [
-    "flow",
-    "fnt"
-  ],
+  "keywords": ["flow", "fnt"],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -57,9 +54,7 @@
       "name": "Flow",
       "decimals": 8,
       "logoURI": "https://cdn.jsdelivr.net/gh/FlowFans/flow-token-list@main/token-registry/A.1654653399040a61.FlowToken/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
+      "tags": ["utility-token"],
       "extensions": {
         "coingeckoId": "flow",
         "website": "https://www.onflow.org",
@@ -81,9 +76,7 @@
       "name": "Example Fungible Token",
       "decimals": 8,
       "logoURI": "https://i.ebayimg.com/images/g/5dwAAOSwbfFjzGQ6/s-l400.jpg",
-      "tags": [
-        "utility-token"
-      ]
+      "tags": ["utility-token"]
     }
   ],
   "version": {
